@@ -1,6 +1,6 @@
 # Mario Game 
 
-
+## Video Proof
 [![Deploying Mario Docker Image on AWS EKS](./image.png)](https://youtu.be/x8eOoki4tww)
 
 ## Deploying Mario Docker Image on AWS EK
